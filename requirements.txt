@@ -4,3 +4,5 @@ pandas
 httpx
 beautifulsoup4
 python-multipart
+lxml
+openpyxl
